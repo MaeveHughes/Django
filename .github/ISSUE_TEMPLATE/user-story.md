@@ -1,10 +1,10 @@
 ---
 name: User Story
 about: This is our default user story template
-title: USER STORY <Title>
+title: USER STORY <Site pagination>
 labels: ''
 assignees: ''
 
 ---
 
-As a **role** I can **capability** so that **received benefit**
+As a **Site User** I can **view a paginated list of posts** so that **easily select a post to view**
